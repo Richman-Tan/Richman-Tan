@@ -34,12 +34,6 @@
 
   <!-- Database -->
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-
-  <!-- Testing -->
-  <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
-
-  <!-- Deployment -->
-  <img src="https://img.shields.io/badge/-Cloudflare%20Pages-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/>
 </p>
 </p>
 <p>
