@@ -27,38 +27,44 @@
   </p>
 </p>
 <p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
-  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  📣 Want to get in touch? Reach out here:<br/>
+  <a href="mailto:richmantan0@gmail.com?subject=[GitHub]%20🔥%20Let’s%20Connect&body=Hi%20Richman%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out%20regarding...">
+    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/richman-tan">
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/richmantan">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-<p>
+<!-- <p>
   🎶Now playing ...🎶<br/>
   <a href="http://spotify-informer.daniels-roth-stan.fr/">
     <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
   </a><br/>
   <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
-</p>
+</p> -->
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
+<img src="http://views.whatilearned.today/views/github/richmantan/views.svg"/>
+
+<h3>⚡️ Building with Code & Curiosity ⚡️</h3><br/>
+
 <p>
-  🧔 Moi c'est <bold>Stan</bold>. 25 ans, barbu et un amateur de code et de 🍺.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
-  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
+  👋 I'm <b>Richman Tan</b>, a penultimate-year Software Engineering student based in <a href="https://www.google.com/maps?q=auckland">Auckland, New Zealand</a> 🇳🇿.<br/>
+  💻 Passionate about all things full-stack, machine learning, and game development.<br/>
+  🌱 Currently diving deeper into <b>Spring Boot</b>, <b>PyTorch</b>, and creative UI/UX design.<br/>
+  🛠️ Skilled in <b>React</b>, <b>Flask</b>, <b>Java</b>, <b>Python</b>, and more.<br/>
+  🎓 Hackathon finalist, educational game developer, and active member of the tech community.
 </p>
 <p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
+  🔗 Looking to collaborate or just say hi? Drop me an <a href="mailto:richmantan0@gmail.com?subject=[GitHub]%20🔥%20Let’s%20Connect&body=Hi%20Richman%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out%20regarding...">email</a> or check out my <a href="https://linkedin.com/in/richman-tan">LinkedIn</a>!
 </p><br/>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <details>
-  <summary>Quelques statistiques ...</summary><br/>
+  <summary>Some stats...</summary><br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C724%20hrs%203%20mins-blue)
