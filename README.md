@@ -46,7 +46,7 @@
   <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
 </p> -->
 
-<img src="http://views.whatilearned.today/views/github/richmantan/views.svg"/>
+<!-- <img src="http://views.whatilearned.today/views/github/richmantan/views.svg"/> -->
 
 <h3>⚡️ Building with Code & Curiosity ⚡️</h3><br/>
 
