@@ -35,9 +35,3 @@ Docker • Git • PostgreSQL • MongoDB
 ## 📫 Connect
 - Email: richmantan0@gmail.com  
 - LinkedIn: https://linkedin.com/in/richman-tan  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richman-Tan&show_icons=true&hide_border=true" />
-</p>
